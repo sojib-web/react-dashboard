@@ -1,0 +1,13 @@
+header {
+    width: 100%;
+    height: 70px;
+    background: #fff;
+}
+
+header .logo {
+    width: 18%;
+}
+
+header .row {
+    margin: 0px !important;
+}
